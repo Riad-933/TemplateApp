@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cn3p8m1QZqlsNedwn5Br2OTXsl0ulbhpxpSxfuM9V5bocxxnRZ2eokGkSM+MwkUgM6NgFsMXE0CUI4NRBxerqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\TemplateWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

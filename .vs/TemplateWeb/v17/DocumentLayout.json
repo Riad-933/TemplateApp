@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\TemplateWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|c:\\users\\user\\desktop\\templateweb\\templateweb\\views\\work\\worksingle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|solutionrelative:templateweb\\views\\work\\worksingle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|c:\\users\\user\\desktop\\templateweb\\templateweb\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|solutionrelative:templateweb\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|c:\\users\\user\\desktop\\templateweb\\templateweb\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|solutionrelative:templateweb\\views\\work\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|c:\\users\\user\\desktop\\templateweb\\templateweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|solutionrelative:templateweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|c:\\users\\user\\desktop\\templateweb\\templateweb\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|solutionrelative:templateweb\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|c:\\users\\user\\desktop\\templateweb\\templateweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|solutionrelative:templateweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|c:\\users\\user\\desktop\\templateweb\\templateweb\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|solutionrelative:templateweb\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|c:\\users\\user\\desktop\\templateweb\\templateweb\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|solutionrelative:templateweb\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|c:\\users\\user\\desktop\\templateweb\\templateweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|solutionrelative:templateweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|c:\\users\\user\\desktop\\templateweb\\templateweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|solutionrelative:templateweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|c:\\users\\user\\desktop\\templateweb\\templateweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|solutionrelative:templateweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|c:\\users\\user\\desktop\\templateweb\\templateweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|solutionrelative:templateweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|c:\\users\\user\\desktop\\templateweb\\templateweb\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|solutionrelative:templateweb\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|c:\\users\\user\\desktop\\templateweb\\templateweb\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|solutionrelative:templateweb\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|c:\\users\\user\\desktop\\templateweb\\templateweb\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706ACB7A-B7D2-443B-A5EF-E190989D1E56}|TemplateWeb\\TemplateWeb.csproj|solutionrelative:templateweb\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkSingle.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Views\\Work\\WorkSingle.cshtml",
+              "RelativeDocumentMoniker": "TemplateWeb\\Views\\Work\\WorkSingle.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Views\\Work\\WorkSingle.cshtml",
+              "RelativeToolTip": "TemplateWeb\\Views\\Work\\WorkSingle.cshtml",
+              "ViewState": "AQIAAKABAAAAAAAAAAAAALUBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T22:29:51.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TemplateWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TemplateWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAOAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T20:50:11.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Views\\Work\\Index.cshtml",
+              "RelativeDocumentMoniker": "TemplateWeb\\Views\\Work\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Views\\Work\\Index.cshtml",
+              "RelativeToolTip": "TemplateWeb\\Views\\Work\\Index.cshtml",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAAALMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T21:07:37.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "TemplateWeb\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "TemplateWeb\\Views\\About\\Index.cshtml",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAAANkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T21:07:04.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "TemplateWeb\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "TemplateWeb\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T21:08:34.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TemplateWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TemplateWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAC0BAAAAAAAAAAAAAD8BAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T20:46:51.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Views\\Pricing\\Index.cshtml",
+              "RelativeDocumentMoniker": "TemplateWeb\\Views\\Pricing\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Views\\Pricing\\Index.cshtml",
+              "RelativeToolTip": "TemplateWeb\\Views\\Pricing\\Index.cshtml",
+              "ViewState": "AQIAANkAAAAAAAAAAAAAAOQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T21:08:06.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorkController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Controllers\\WorkController.cs",
+              "RelativeDocumentMoniker": "TemplateWeb\\Controllers\\WorkController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Controllers\\WorkController.cs",
+              "RelativeToolTip": "TemplateWeb\\Controllers\\WorkController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:07:27.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TemplateWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TemplateWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:46:07.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TemplateWeb\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TemplateWeb\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T20:54:30.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TemplateWeb\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TemplateWeb\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T20:54:07.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Program.cs",
+              "RelativeDocumentMoniker": "TemplateWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Program.cs",
+              "RelativeToolTip": "TemplateWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T20:33:07.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "TemplateWeb\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "TemplateWeb\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:08:28.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "TemplateWeb\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "TemplateWeb\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:06:58.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PricingController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Controllers\\PricingController.cs",
+              "RelativeDocumentMoniker": "TemplateWeb\\Controllers\\PricingController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\TemplateWeb\\TemplateWeb\\Controllers\\PricingController.cs",
+              "RelativeToolTip": "TemplateWeb\\Controllers\\PricingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:07:58.673Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
